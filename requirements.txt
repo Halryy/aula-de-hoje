@@ -2,5 +2,5 @@ fastapi
 uvicorn[standard]
 bcrypt
 sqlalchemy
-mysqlclient # conexão local
-#psycopg2-binary # conexão supabase
+mysqlclient
+psycopg2-binary
